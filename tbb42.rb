@@ -1,6 +1,6 @@
 require "formula"
 
-class Tbb42 < Formula
+class Tccbb42 < Formula
     homepage "http://www.threadingbuildingblocks.org/"
     url "https://www.threadingbuildingblocks.org/sites/default/files/software_releases/source/tbb43_20140724oss_src.tgz"
     sha1 "4cb73cd0ac61b790318358ae4782f80255715278"
